@@ -1,0 +1,28 @@
+
+.books-Container{
+    background-color: rgb(225, 228, 230);
+    height: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .home-back{
+    background-image: url("../assets/images/back1.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+  }
+  .fetch-book {
+    flex: 0 0 300px;
+    margin: 10px;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: #f5f5f5;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    height: 70vh;
+    
+  }

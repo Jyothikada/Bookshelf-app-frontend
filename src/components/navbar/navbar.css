@@ -1,0 +1,19 @@
+.navbar{
+    display: flex;
+    justify-content: space-between;
+background-color: rgb(196, 137, 191);
+
+}
+
+.navabr-item1{
+    flex: 1;
+    margin: 100px;
+    padding: 10px;
+    background-color: #ccc;
+ 
+}
+.nav-link{
+    display: flex;
+    justify-content: space-between;
+  
+}
